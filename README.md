@@ -1,4 +1,4 @@
-# Project Title
+# Einbürgerungstest AI
 
 ## Overview
 This project is an educational application designed to provide users with a comprehensive testing and learning experience. It includes features such as quizzes, question reviews, and progress tracking.
